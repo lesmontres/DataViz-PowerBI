@@ -1,3 +1,3 @@
 #ABOUT
 
-Sample data visualizations work using Power BI.
+Sample data visualization work using Power BI.
